@@ -4,7 +4,7 @@ Portuguese Verbalizer from RDF triples to NL sentences and summaries.
 
 With the emergent growing of Linked Data, the generation of natural language from Resource Description Framework (RDF) data has gained recently significant attention. However, a few number of these approaches generates natural language in other languages than English. No work has been proposed to generate Brazilian Portuguese texts in the context of RDF. To this end, we present RDF2PT, an approach which verbalizes RDF data to Brazilian Portuguese language. We evaluated RDF2PT in an open questionnaire with 44 nativespeakers divided into experts and non-experts. Our results demonstrate that RDF2PT is able to generate summaries which are similarto natural languages and can be easily understood by humans.
 
-RDF2PT is based on Ngonga Ngomo et.al <a href="https://github.com/SmartDataAnalytics/SemWeb2NL">SemWeb2NL</a> and it also uses the Brazilian adaptation of SimpleNLG to the realization task.
+RDF2PT is based on Ngonga Ngomo et.al <a href="https://github.com/SmartDataAnalytics/SemWeb2NL">SemWeb2NL</a> and it also uses the <a href="https://github.com/rdeoliveira/simplenlg-bp">Brazilian adaptation of SimpleNLG</a> to the realization task.
 
 ## Results
 
