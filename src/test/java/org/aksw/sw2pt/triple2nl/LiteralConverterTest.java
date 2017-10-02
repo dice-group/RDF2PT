@@ -26,8 +26,8 @@ import static org.junit.Assert.assertEquals;
 
 import java.io.StringReader;
 
-import org.aksw.sw2pt.triple2nl.converter.DefaultIRIConverter;
-import org.aksw.sw2pt.triple2nl.converter.LiteralConverter;
+import org.aksw.rdf2pt.triple2nl.converter.DefaultIRIConverter;
+import org.aksw.rdf2pt.triple2nl.converter.LiteralConverter;
 import org.apache.jena.datatypes.BaseDatatype;
 import org.apache.jena.datatypes.xsd.XSDDatatype;
 import org.apache.jena.graph.NodeFactory;

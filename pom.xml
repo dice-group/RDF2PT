@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.aksw.simba</groupId>
-	<artifactId>sw2pt</artifactId>
+	<artifactId>RDF2PT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<properties>
@@ -90,13 +90,13 @@
 			<version>3.8.0</version>
 			<classifier>models</classifier>
 		</dependency> -->
-<dependency>
+<!-- <dependency>
     <groupId>uk.ac.abdn</groupId>
     <artifactId>simplenlg</artifactId>
-    <version>1.0</version>
-    	<scope>system</scope>
-	<systemPath>/Users/diegomoussallem/Documents/workspace/sw2pt/repository/snlgEnFrBP.jar</systemPath>
-</dependency>
+    <version>1.0</version> -->
+<!--     	<scope>system</scope>
+	<systemPath>../snlgEnFrBP.jar</systemPath> -->
+<!-- </dependency> -->
 		<dependency>
 			<groupId>org.apache.solr</groupId>
 			<artifactId>solr-solrj</artifactId>
