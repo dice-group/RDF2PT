@@ -6,6 +6,17 @@ With the emergent growing of Linked Data, the generation of natural language fro
 
 RDF2PT is based on Ngonga Ngomo et.al <a href="https://github.com/SmartDataAnalytics/SemWeb2NL">SemWeb2NL</a> and it also uses the <a href="https://github.com/rdeoliveira/simplenlg-bp">Brazilian adaptation of SimpleNLG</a> to the realization task.
 
+### How to cite
+```Tex
+
+@inproceedings{rdf2pt_lrec_2018,
+  author = {Moussallem, Diego and Ferreira, Marcos Zampieri Thiago Castro and Cavalcanti, Maria Claudia and Xex\'eo, Geraldo and Neves, Mariana and {Ngonga Ngomo}, Axel-Cyrille},
+  booktitle = {The 11th edition of the Language Resources and Evaluation Conference, 7-12 May 2018, Miyazaki (Japan)},
+  title = {{RDF2PT: Generating Brazilian Portuguese Texts from RDF Data}},
+  url	= {https://arxiv.org/pdf/1802.08150.pdf},
+  year = 2018
+}
+```
 ## Results
 
 it can be found at <a href="http://tinyurl.com/ya2hm2vr">Click Here</a>
