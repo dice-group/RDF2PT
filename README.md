@@ -10,12 +10,19 @@ RDF2PT is based on Ngonga Ngomo et.al <a href="https://github.com/SmartDataAnaly
 ```Tex
 
 @inproceedings{rdf2pt_lrec_2018,
-  author = {Moussallem, Diego and Ferreira, Marcos Zampieri Thiago Castro and Cavalcanti, Maria Claudia and Xex\'eo, Geraldo and Neves, Mariana and {Ngonga Ngomo}, Axel-Cyrille},
-  booktitle = {The 11th edition of the Language Resources and Evaluation Conference, 7-12 May 2018, Miyazaki (Japan)},
-  title = {{RDF2PT: Generating Brazilian Portuguese Texts from RDF Data}},
-  url	= {https://arxiv.org/pdf/1802.08150.pdf},
-  year = 2018
-}
+  author = {Diego Moussallem ,Thiago Ferreira ,Marcos Zampieri ,Maria Cláudia Cavalcanti ,Geraldo Xexéo ,Mariana Neves and Axel-Cyrille Ngonga Ngomo},
+  title = {RDF2PT: Generating Brazilian Portuguese Texts from RDF Data},
+  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  year = {2018},
+  month = {may},
+  date = {7-12},
+  location = {Miyazaki, Japan},
+  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
+  publisher = {European Language Resources Association (ELRA)},
+  address = {Paris, France},
+  isbn = {979-10-95546-00-9},
+  language = {english}
+  }
 ```
 ## Results
 
